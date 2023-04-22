@@ -5,4 +5,4 @@ WhatsUpDoc uses the News API to fetch the latest cybersecurity news related to t
 
 Note that you will need to sign up for a News API key to use this script. You can sign up for a free account at https://newsapi.org/.
 
-WhatsUpDoc is a product of Hello Security. @abtzpro devoloped the core of WhatsUpDoc. WhatsUpDoc is still being improved and worked upon, so please dont hesistate to let us know of any errors encountered.
+WhatsUpDoc is a product of Hello Security. @abtzpro @AdamR devoloped the core of WhatsUpDoc. WhatsUpDoc is still being improved and worked upon, so please dont hesistate to let us know of any errors encountered.
